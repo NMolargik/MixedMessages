@@ -23,7 +23,7 @@ const words = {
     people: ['Mariah Carey', 'Jesus', 'Jennifer Lawrence', 'Jim Carrey', 'Mom', 'Dad', 'your sister', 'Dr Doofinshmirtz',
      'Walt Disney', 'Tony Stark', 'Elon Musk', 'Mr. Bean', 'Ruffus', 'Billy Joe', 'crazy gramps'],
     reactions: ['spank your butt', 'run you over with that car', 'throw you into the ocean', 'give you a lollipop',
-     'give you a good talkin to', 'blast ya', 'give you an honorary degree in being a huge b*tch', 'kick you in the shin',
+     'give you a good talkin to', 'blast ya', 'give you an honorary degree in being the worst', 'kick you in the shin',
       'whack ya', 'give you a big ole hug', 'wipe you off the face of the earth', 'speak poorly of you to friends'],
 }
 
